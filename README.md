@@ -13,7 +13,7 @@ Estou nesta jornada com a ajuda da plataforma Rocketseat, onde estou participand
 
 ## Contato
 
-<a href="an.barros99@gmail.com" target="_blank">
+<a href="mailto:an.barros99@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
   
