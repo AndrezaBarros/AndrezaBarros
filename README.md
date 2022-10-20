@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá, eu sou a Andreza Barros 👋
 
-<!--
-**AndrezaBarros/AndrezaBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Em transição de carreira para a área de tecnologia.
 
-Here are some ideas to get you started:
+🌱 Atualmente estou estudando o universo de Desenvolvimento WEB, utilizando ferramentas como :
+* HTML
+* CSS
+* JavaScript
+* NodeJs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou nesta jornada com a ajuda da plataforma Rocketseat, onde estou participando do bootcamp Explorer.
+
+
+### Contato
+
+  <a href="an.barros99@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/andreza-barros-990885161/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
