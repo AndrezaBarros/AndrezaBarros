@@ -1,4 +1,4 @@
-## Olá, sou a Andreza Barros 👋
+## Olá, sou a Andreza Barros Tiezzi👋
 
 Em transição de carreira para a área de tecnologia.
 
