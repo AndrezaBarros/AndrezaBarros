@@ -7,6 +7,8 @@ Atualmente estou estudando o universo de Desenvolvimento WEB, utilizando ferrame
 * CSS
 * JavaScript
 * NodeJs
+* React
+* Flutter
 
 Estou nesta jornada com a ajuda da plataforma Rocketseat, onde estou participando do bootcamp Explorer.
 
